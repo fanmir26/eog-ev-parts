@@ -1,0 +1,16 @@
+.git/
+.wrangler/
+.github/
+node_modules/
+dist/
+build/
+
+.gitignore
+.assetsignore
+wrangler.jsonc
+README.md
+DEPLOYMENT.md
+
+*.log
+Thumbs.db
+.DS_Store
