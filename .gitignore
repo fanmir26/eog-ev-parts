@@ -1,0 +1,13 @@
+﻿# OS/editor files
+.DS_Store
+Thumbs.db
+*.log
+
+# Local dev folders
+node_modules/
+dist/
+build/
+
+# Environment files
+.env
+.env.local
